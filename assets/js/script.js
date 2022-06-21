@@ -1,6 +1,6 @@
  //TIMELINE 
  (function () {
-	"use strict";
+	// "use strict";
 
 
 	var items = document.querySelectorAll(".timeline li");
